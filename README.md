@@ -1,0 +1,1 @@
+This is a Project made my Andrej (aka me) that is planned to defeat the boring and laggy Google World app, and replace it with a much better and cooler alternative aka Versalis GN (my app) enjoy it, also to download you gotta download the .apk file in #Releases and click on it in when its downloaded (in any file manager app on ur device) to extract it into a app.
